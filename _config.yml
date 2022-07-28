@@ -23,8 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hello! This is where my description will live.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geo-bit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username: george-tipton-iii-144736a2
+github_username:  geo-bit
 
 # Build settings
 theme: minima
