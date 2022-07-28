@@ -27,6 +27,7 @@ linkedin_username: george-tipton-iii-144736a2
 github_username:  geo-bit
 
 # Build settings
+theme: minima
 plugins:
   - jekyll-feed
 
