@@ -21,7 +21,7 @@
 title: George Tipton
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! This is where my description will live.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geo-bit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: george-tipton-iii-144736a2
 github_username:  geo-bit
