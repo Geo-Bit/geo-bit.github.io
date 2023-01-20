@@ -45,6 +45,18 @@ body {
     text-decoration: none;
 }
 
+#status {
+    color: var(--accentColor);
+    font-size: .9rem;
+    line-height: 1.25;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
 #links {
     max-width: 350px;
     width: auto;
