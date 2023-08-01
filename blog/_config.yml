@@ -293,7 +293,7 @@ plugins:
 
 # Other
 url: "https://georgetipton.com"
-baseurl: "/blog/"
+baseurl: "blog/"
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
